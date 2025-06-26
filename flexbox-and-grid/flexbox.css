@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    margin: 0;
+    height: 100vh;
+}
+
+p{
+    color: red;
+}
+
+aside{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid red;
+    width: 30vw;
+}
+
+main{
+    border: 1px solid red;
+    width: 70vw;
+
+}
+
+
+
+footer{
+    display: flex;
+
+}

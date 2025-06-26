@@ -1,0 +1,36 @@
+/* Título principal */
+h1 {
+    color: purple;
+}
+
+/* Párrafo con ID específico */
+#paragraph {
+    color: aqua;
+    text-align: center;
+}
+
+/* Sección con clase "styling" */
+.styling {
+    color: aquamarine;
+}
+
+/* Estilo para la lista ordenada con clase */
+.styling-ul {
+    color: seagreen;
+}
+
+/* Cuando pasas el mouse sobre un enlace */
+a:hover {
+    color: yellowgreen;
+}
+
+/* Cambiar color del numerito de la lista */
+li::marker {
+    color: violet;
+}
+
+/* Estilo para todos los <a> que tienen href */
+a[href] {
+    text-decoration: underline;
+    color: blue;
+}
