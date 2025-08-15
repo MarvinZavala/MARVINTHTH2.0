@@ -20,3 +20,5 @@
 
 *.vsix
 
+.DS_Store
+.gitignore
